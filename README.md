@@ -1,1 +1,1 @@
-# vue-js-project
+# Vue.js projects
